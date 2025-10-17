@@ -1,88 +1,63 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VishalCodesX.VishalCodesX" />
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00D9FF&lines=Hey+there!+👋;+I'm+Vishal+T!;+AI+%26+ML+Engineer+%7C+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+T!" />
 </h1>
-
-<h3 align="center">⚙️ Innovating at the intersection of intelligence & design ⚙️</h3>
-
+<h3 align="center">A passionate AI & ML enthusiast and software developer from India 🇮🇳</h3>
 <br/>
-
 <div align="center">
  
- 🔭 I’m currently working on **AI-driven applications & smart analytics platforms**  
- 🌱 I’m learning **Deep Learning, Cloud Infrastructure, and Scalable Systems**  
- 💬 Ask me about **AI, ML, React, Node.js, or Data Science — [here](https://github.com/VishalCodesX/VishalCodesX/issues)**  
- ⚡ Fun fact: **I mix logic with creativity — and coffee fuels both ☕**
-
+ 🔭 I'm currently working on **AI-powered projects & full-stack dev**  
+ 🌱 I'm currently learning **AI, ML, and Data Analytics**  
+ 💬 Ask me about **Node.js, React, Firebase, Python, AI/ML**  
+ ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 </div>
-
----
-
+ 
 <div align="center"> 
   <a href="mailto:vichu29122005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/vishaltinsightsaiml" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <a href="https://www.linkedin.com/in/vishaltinsightsaiml">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://vishal-portfolio-omega-tawny.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" />
+  <a href="https://vishal-portfolio-omega-tawny.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
 </div>
-
----
-
-<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,nodejs,express,mysql,supabase,git,github,vscode,figma,c,java&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
 </div>
-
-<br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VishalCodesX/VishalCodesX/output/github-contribution-grid-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=VishalCodesX&theme=tokyonight&hide_border=true&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=VishalCodesX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="readme stats" />
+<div align="center">
+  <!-- Streak Stats -->
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalCodesX&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+  <!-- GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=VishalCodesX&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+  <!-- Top Languages -->
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalCodesX&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  
+  <!-- Activity Graph -->
   <br/><br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalCodesX&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="top langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalCodesX&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph"/>
 </div>
-
-<br/><br/>
-
 <hr/>
 
-<h2 align="center">🧠 My Current Focus 🧠</h2>
-<br/>
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br>
 <div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VishalCodesX/VishalCodesX/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-```mermaid
-mindmap
-  root((Vishal's Focus))
-    Artificial Intelligence
-      Deep Learning
-      NLP
-      Computer Vision
-    Machine Learning
-      Data Analytics
-      Predictive Modelling
-    Full Stack
-      React Ecosystem
-      Node.js + Express
-      Database Design
-    Cloud & Infra
-      Supabase
-      AWS
-      Deployment
+<hr/>
+<div align="center">
+  <a href="https://ko-fi.com/V7V4RAK9C">
+    <img height="64" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</div>
