@@ -6,7 +6,11 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
+
+# Ensure the GITHUB_TOKEN has permission to write generated files (needed to push to the output branch)
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,16 +18,24 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      
+
       - name: Generate Snake
+        id: generate
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: VishalCodesX
+          # use repository owner so it works even if you rename repo/username (official examples use this)
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      - name: Show generated files (debug)
+        run: |
+          echo "== dist contents =="
+          ls -la dist || true
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
