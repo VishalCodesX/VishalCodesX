@@ -49,7 +49,8 @@
 
 <div align="center">
   <!-- Streak Stats (Fixed) -->
-  <img width="390" src="https://github-readme-streak-stats.vercel.app?user=VishalCodesX&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalCodesX&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
+
   
   <!-- GitHub Stats -->
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=VishalCodesX&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
