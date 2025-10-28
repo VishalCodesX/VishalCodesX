@@ -66,10 +66,6 @@
 
 <hr/>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-
-<br/>
-
 <div align="center">
   <h2>🐍 GitHub Contributions 🐍</h2>
   <br/>
