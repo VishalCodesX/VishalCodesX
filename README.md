@@ -52,13 +52,6 @@
    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalCodesX&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats"/>
 
   
-  <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=VishalCodesX&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  <!-- Top Languages -->
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalCodesX&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-  
   <!-- Activity Graph -->
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalCodesX&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph"/>
