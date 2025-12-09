@@ -69,9 +69,12 @@
 <hr/>
 
 <div align="center">
-  <p>👨‍💻 Portfolio</p>
-  <a href="https://vishal.innosolve.in" target="_blank">
-    🌐 vishal.innosolve.in
-  </a>
+  <h3>🚀 About the Creator</h3>
+  <p>
+    Built by <b>Vishal</b><br>
+    <a href="https://vishal.innosolve.in" target="_blank">
+      🌐 Visit Portfolio
+    </a>
+  </p>
 </div>
 
