@@ -71,8 +71,8 @@
 <div align="center">
   <a href="https://vishal.innosolve.in" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" 
-      alt="Portfolio Website"
+      src="https://img.shields.io/badge/Portfolio-vishal.innosolve.in-blueviolet?style=for-the-badge" 
+      alt="Visit Portfolio"
     />
   </a>
 </div>
