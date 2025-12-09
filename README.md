@@ -69,12 +69,12 @@
 <hr/>
 
 <div align="center">
-  <h3>🚀 About the Creator</h3>
-  <p>
-    Built by <b>Vishal</b><br>
-    <a href="https://vishal.innosolve.in" target="_blank">
-      🌐 Visit Portfolio
-    </a>
-  </p>
+  <a href="https://vishal.innosolve.in" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" 
+      alt="Portfolio Website"
+    />
+  </a>
 </div>
+
 
